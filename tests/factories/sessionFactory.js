@@ -15,5 +15,5 @@ module.exports = ({ _id }) => {
 
     return {
         session, sig
-    }
+    };
 }
